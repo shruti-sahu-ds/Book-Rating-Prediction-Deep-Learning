@@ -74,15 +74,19 @@
 	•	POWERBI_DASHBOARD_DL.pdf → Dashboard
 	•	README.md → Project documentation
 
+## 📊 Visualizations
 
-## 📸 Visualizations
+### 📌 Dashboard Overview
+![Dashboard](Dashboard_Analysis.png)
 
-(
+### 📊 Correlation Heatmap
+![Heatmap](Heatmap_Corr.png)
 
+### 📈 Price vs Rating Analysis
+![Price vs Rating](Price_Vs_Rating_Analysis.png)
 
-
-
-
+### 📉 Book Price Distribution
+![Price Distribution](Book_Prices_Distribution.png)
 
 
 ## 💡 Key Insights
