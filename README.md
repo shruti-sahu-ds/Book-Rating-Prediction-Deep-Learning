@@ -101,4 +101,4 @@
 
 ## 🙌 Author
 
->> "Shruti Sahu"
+ "Shruti Sahu"
